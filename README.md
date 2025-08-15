@@ -2,8 +2,7 @@
 This project applies CNN (ResNet-50), Vision Transformer (ViT), and PCA + GMM clustering to classify or analyze AI vs. human-generated images.
 
 ```plaintext
-Source-Code/
-│
+.
 ├── cnn/                              # CNN model (ResNet-50)
 │   ├── CNN.py                        # Model, training, evaluation, checkpointing
 │   ├── CNN_training.ipynb            # CNN training (baseline)
